@@ -1,3 +1,2 @@
-text
 same text
 same new text
